@@ -1,5 +1,5 @@
 # Created by: cyb3rr
-# Updated as of: 6/26/24
+# Updated as of: 11/10/24
 ## Gear
 
 The gears I own is what
@@ -28,7 +28,7 @@ EMI: erjigo KZ ZSN Pro
 
 ## Desktop
 
-Keyboard: Keychron K2 w/ cherry switches
+[NEW!] Keyboard: Keychron V1 Max /w cherry switches
 
 Mouse: Logitech MX Master 3
 
