@@ -1,5 +1,4 @@
-# Created by: cyb3rr
-# Updated as of: 11/10/24
+# Created by: cyb3rr / Updated as of: 11/18/24
 ## Gear
 
 The gears I own is what
