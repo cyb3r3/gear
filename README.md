@@ -56,5 +56,7 @@ Sony a6000
 
 ## IDE 
 Emacs w/ Doom
-Vim 
+
+Vim
+
 VS Code
