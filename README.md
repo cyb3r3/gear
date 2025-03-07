@@ -1,4 +1,4 @@
-# Created by: cyb3rr / Updated as of: 12/12/24
+# Created by: cyb3rr / Updated as of: 3/07/25
 ## Gear
 
 The gears I own is what
@@ -13,10 +13,7 @@ contact me! I am more than happy to talk.
 ## Contacts
 (Discord: c.yb3.r) (Reddit: u/cyb3r-1)
 
-## On the go
-
-Vintage 90s black Jansport backpack
-
+## EDC
 Laptops: Thinkpad T480 w\ Debian 12.5
 
 Phone: Note 20 Ultra 5G
@@ -25,6 +22,7 @@ MP3: iPod 5th Gen (modding later)
 
 EMI: erjigo KZ ZSN Pro
 
+Tool: Leatherman Super Tool Portland Or 
 ## Desktop
 
 [NEW!] Keyboard: Keychron V1 Max /w cherry switches
@@ -40,7 +38,7 @@ Home server: 2011 HP Elite 6200 w/ Debian 12.5
 - 500GB SSD
 - MSI B550M PRO-VDH WiFi
 - 500w PSU
-- ASUS Prime AP201 WiFi
+- ASUS Prime AP201
 
 ## Books
 
