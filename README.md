@@ -1,4 +1,4 @@
-# Created by: cyb3rr / Updated as of: 3/07/25
+# Created by: cyb3rr / Updated as of: 08/01/25
 ## Gear
 
 The gears I own is what
@@ -14,7 +14,7 @@ contact me! I am more than happy to talk.
 (Discord: c.yb3.r) (Reddit: u/cyb3r-1)
 
 ## EDC
-Laptops: Thinkpad T480 w\ Debian 12.5
+Laptop: Thinkpad T480 w\ Debian 12.5
 
 Phone: Note 20 Ultra 5G
 
